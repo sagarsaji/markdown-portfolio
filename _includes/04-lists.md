@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Facebook
+- WhatsApp
+- Instagram
+- Twitter
+- Skype
+- Orkut
+- Youtube
