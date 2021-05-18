@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_I am skilled in programming languages like **C,C++,Python,Java** and also have some basic idea in web designing._
