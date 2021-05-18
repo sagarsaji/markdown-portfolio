@@ -1,0 +1,7 @@
+- Facebook
+- WhatsApp
+- Instagram
+- Twitter
+- Skype
+- Orkut
+- Youtube
